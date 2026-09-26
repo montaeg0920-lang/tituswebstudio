@@ -1,0 +1,16 @@
+# Secret credentials
+.env
+.env.local
+.env.*.local
+
+# Deployment and package files
+.vercel/
+node_modules/
+
+# Local-only preview files and deliverables
+work/
+outputs/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
